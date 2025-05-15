@@ -1,6 +1,6 @@
 module github.com/beeper/imessage
 
-go 1.21
+go 1.23.0
 
 require (
 	github.com/emersion/go-vcard v0.0.0-20230815062825-8fda7d206ec9
@@ -16,13 +16,13 @@ require (
 	go.mau.fi/util v0.2.2-0.20231120145840-55dca048d0d9
 	go.mau.fi/zeroconfig v0.1.2
 	go4.org v0.0.0-20230225012048-214862532bf5
-	golang.org/x/crypto v0.17.0
+	golang.org/x/crypto v0.35.0
 	golang.org/x/exp v0.0.0-20231219180239-dc181d75b848
-	golang.org/x/image v0.14.0
-	golang.org/x/net v0.19.0
-	golang.org/x/sys v0.15.0
+	golang.org/x/image v0.18.0
+	golang.org/x/net v0.21.0
+	golang.org/x/sys v0.30.0
 	golang.org/x/time v0.5.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	howett.net/plist v1.0.1
 	maunium.net/go/maulogger/v2 v2.4.1
 	maunium.net/go/mautrix v0.16.3-0.20231117160133-4784d6d09fe2
@@ -41,7 +41,7 @@ require (
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/tidwall/sjson v1.2.5 // indirect
 	github.com/yuin/goldmark v1.6.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
